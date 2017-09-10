@@ -12,6 +12,7 @@ app.get('/help.html',function(req,res){
   res.sendFile('help.html');
 });
 
+//port for heroku
 let port = process.env.PORT || 3000;
 
 app.listen(port, function () {
