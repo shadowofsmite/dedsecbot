@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markus636/xatbot.git"
+    "url": "git+https://github.com/markus636/dedsecbot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markus636/xatbot/issues"
+    "url": "https://github.com/markus636/dedsecbot/issues"
   },
-  "homepage": "https://github.com/markus636/xatbot#readme"
+  "homepage": "https://github.com/markus636/dedsecbot#readme"
 }
